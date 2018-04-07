@@ -1,4 +1,4 @@
-package at.jsommer.unicorn;
+package com.github.zanony.magicRestUnicorn;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayInputStream;

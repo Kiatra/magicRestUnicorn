@@ -1,4 +1,4 @@
-package at.jsommer.unicorn;
+package com.github.zanony.magicRestUnicorn;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
